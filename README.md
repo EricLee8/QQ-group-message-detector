@@ -9,5 +9,5 @@ This is a repo containing a tool that can automatically detect the new message (
 After installing all requirement, you need to:  
 - Seperate the QQ group window. (在消息列表中右键QQ群，选择分离当前会话）
 - Modify some customized information in the code (group name, your interested keywords and the mail address etc.)
-- Run the code with Python
+- Run the code with Python  
 For QQ SMTP authorization code, follow [this blog](https://blog.csdn.net/mao_hui_fei/article/details/105548814)
